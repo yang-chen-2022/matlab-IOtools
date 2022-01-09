@@ -15,3 +15,6 @@ This repository provides matlab codes for Input-Output (IO) options
   > saveVolvtk - Save a 3D image into vtk format  
   > saveVolvtk_amitex - Save a 3D image into vtk format (to be consistent with AMITEX)  
   > saveVolvtk_UnStructGrid - Save a 3D point cloud into vtk format  
+
+Please feel free to use any of these codes, and please cite my PhD thesis:
+Chen, Yang. Damage mechanisms in SiC/SiC composite tubes: three-dimensional analysis coupling tomography imaging and numerical simulation. No. FRCEA-TH--9739. Universite de Paris-Est, 2017.
